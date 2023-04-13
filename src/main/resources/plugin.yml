@@ -1,0 +1,4 @@
+name: bouncy
+version: '${project.version}'
+main: me.comfortable_andy.bouncy.BouncyMain
+api-version: 1.18
